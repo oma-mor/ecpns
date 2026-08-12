@@ -1,0 +1,6 @@
+{
+  "name": "برلمان طفل شمال سيناء",
+  "description": "التطبيق الشامل والبحث التوثيقي لبرلمان الطفل المصري بشمال سيناء - السجل التاريخي، اللجان، الفعاليات، ورابط المشاركة والانضمام الرسمي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
